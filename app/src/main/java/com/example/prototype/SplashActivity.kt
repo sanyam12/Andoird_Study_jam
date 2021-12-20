@@ -8,7 +8,7 @@ import android.widget.VideoView
 
 class SplashActivity : AppCompatActivity() {
 
-    val t:Long = 4500
+    val t:Long = 3500
 
     override fun onCreate(savedInstanceState: Bundle?) {
         super.onCreate(savedInstanceState)
