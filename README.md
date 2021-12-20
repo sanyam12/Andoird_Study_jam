@@ -6,7 +6,7 @@ In this session DSC NITJ brings you Android Study Jams which is a beginner orien
 
 
 <p align="center" width="300"><img src="https://user-images.githubusercontent.com/87534228/145713546-db48e2ba-f6f9-46e9-b498-31e13875623a.jpg"></p>
-<p align="center" width="300"><imp src=""></p>
+<p align="center" width="300"><imp src="https://github.com/sanyam12/Andoird_Study_jam/blob/5014b63003046f2de1b7b4b2567c05dfb2231ced/ss.jpeg"></p>
 
 
 ## Date : 
